@@ -1,0 +1,9 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/Konstanius/ff_alarm_server
+[submodule "app"]
+	path = app
+	url = https://github.com/Konstanius/ff_alarm
+[submodule "fcm_service"]
+	path = fcm_service
+	url = https://github.com/Konstanius/ff_alarm_fcm_service
