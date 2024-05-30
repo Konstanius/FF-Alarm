@@ -10,3 +10,6 @@
 [submodule "ff_alarm_panel"]
 	path = panel
 	url = https://github.com/Konstanius/ff_alarm_panel
+[submodule "monitor"]
+	path = monitor
+	url = https://github.com/Konstanius/ff_alarm_monitor
